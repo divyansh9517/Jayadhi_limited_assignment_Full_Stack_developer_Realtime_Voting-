@@ -26,15 +26,9 @@ Getting Started
 Prerequisites
 A modern web browser (Chrome, Firefox, Safari, etc.)
 A local server (optional, for testing)
-Installation
-Clone the repository:
 
-bash
-Run
-Copy code
-git clone https://github.com/yourusername/poll-session.git
-cd poll-session
-Open the index.html file in your web browser:
+
+
 
 You can simply double-click the index.html file or serve it using a local server.
 File Structure
